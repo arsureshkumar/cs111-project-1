@@ -1,0 +1,8 @@
+Arjun Suresh Kumar
+
+01 Steps for TriangleArea with Base, Height and Area
+02 Set the value of Base to 3.5
+03 Set the value of Height to 4.85
+04 Set the value of Area to 0.5 * Base * Height
+05 Output the value of Area
+06 Stop
